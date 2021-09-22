@@ -1,0 +1,1 @@
+Jogo ofline do dinossauro feito em javascript.
