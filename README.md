@@ -1,1 +1,1 @@
-Jogo ofline do dinossauro feito em javascript.
+Jogo offline do dinossauro feito em javascript.
